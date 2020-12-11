@@ -55,9 +55,9 @@ logo = """
 \033[0;39m╔╣╠╗║╚═╝║╚═╝║╚╗╔╝║╚══╗──║║─║╚═╝║╚═╝║
 \033[0;39m╚══╝╚═══╩═══╝─╚╝─╚═══╝──╚╝─╚═══╩═══╝
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mMAURICE SEPTINO ID\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mMAURICE SEPTINO ID
 \033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/Aahilzada\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mFacebook \033[1;32m: \033[1;32mMaurice Septino ID[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mFacebook \033[1;32m: \033[1;32mMaurice Septino ID
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -95,10 +95,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://wa.me/085691015635')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://wa.me/085691015635')
 
 def login():
 	os.system('clear')
